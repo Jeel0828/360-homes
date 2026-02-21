@@ -11,7 +11,7 @@ const Hero = () => {
     const cities = ["Mumbai", "Delhi", "Bangalore", "Hyderabad", "Pune", "Chennai"];
 
     return (
-        <section className="w-full py-8 sm:py-12 lg:py-16 px-4">
+        <section className="w-full py-8 sm:py-10 px-4">
             <div className="max-w-[1240px] mx-auto">
                 <div
                     className="relative w-full h-full lg:h-[600px] rounded-2xl sm:rounded-3xl overflow-hidden shadow-2xl bg-cover bg-center"
